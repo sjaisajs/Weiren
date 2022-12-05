@@ -68,4 +68,4 @@
 ^http[s]?:\/\/wbapi\.wbbcv\.com\/api\/app\/vid\/h5\/m3u8\/.+m3u8.+token.*$ url script-request-header https://raw.githubusercontent.com/WeiRen0/Scripts/main/hls.js
 ###主机名###
 
-hostname = *wbbcv*,180.153.255.*,180.153.140.*,180.153.250.*,*fuaybr*,appapi*,*17gwl*,*sgyrc*,*mnghx*,*czbt*,*jtshuzhiwa*,114.80.*.*,mobile.ximalaya.com,*xmcdn*,*youshu*,*snailsleep*,180.153.*.*,pan.baidu.com,*.caiyunapp.*,*xo2xo*,*hnyiya*,sjk*,*sez*,*qmxfs*,*.ximalaya.*,*faceu*,*retouchpics*,51h*,*rwut*,*luoli*,*cmw*,*.zymk.cn,*antv*,*sssm*,iosv2.cjapi.papa21.com,*wufan*,pan.baidu.com,*.o2ting.*,*.radio.*,*keep*,*kuwo*,*xima*,*.biliapi.*,*.bilibili.*,*dushu*,*153*,*.music.163.com
+hostname = *wbbcv*,180.153.255.*,180.153.140.*,180.153.250.*,*fuaybr*,appapi*,*17gwl*,*sgyrc*,*mnghx*,*czbt*,*jtshuzhiwa*,114.80.*.*,mobile.ximalaya.com,*xmcdn*,*youshu*,*snailsleep*,180.153.*.*,pan.baidu.com,*.caiyunapp.*,*xo2xo*,*hnyiya*,sjk*,*sez*,*qmxfs*,*.ximalaya.*,*faceu*,*retouchpics*,51h*,*rwut*,*luoli*,*cmw*,*.zymk.cn,*antv*,*sssm*,iosv2.cjapi.papa21.com,*wufan*,pan.baidu.com,*.o2ting.*,*.radio.*,*keep*,*kuwo*,*xima*,*..*,*dushu*,*153*,*.music.163.com
